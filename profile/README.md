@@ -20,5 +20,9 @@ ____
         <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSUBLiME-Association">
                 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSUBLiME-Association&countColor=%23263759" />
         </a>
-        <button>test</button>
+</div>
+<div align="center">
+        <a href="https://github.com/SUBLiME-Association">
+                <img width="5%" src="https://avatars.githubusercontent.com/u/95303960?s=200&v=4" />
+        </a>
 </div>
