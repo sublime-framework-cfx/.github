@@ -22,7 +22,7 @@ ____
         </a>
 </div>
 <div align="center">
-        <a href="https://github.com/sublime-framework-cfx">
+        <a href="https://github.com/SUBLiME-Association">
                 <img width="5%" src="https://avatars.githubusercontent.com/u/95303960?s=200&v=4" />
         </a>
 </div>
