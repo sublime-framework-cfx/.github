@@ -17,10 +17,11 @@ ____
         </a>
 </div>
 <div align="center">
-        <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fsublime-framework-cfx" onclick="">
-                <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsublime-framework-cfx&countColor=%23263759" />
-        </a>
+    <a href="">
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FLJ-Life-RP&countColor=%23263759" />
+    </a>
 </div>
+
 <div align="center">
         <a href="https://github.com/SUBLiME-Association">
                 <img width="5%" src="https://avatars.githubusercontent.com/u/95303960?s=200&v=4" />
